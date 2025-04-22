@@ -20,4 +20,4 @@ Untuk melihat atau mengembangkan portofolio ini lebih lanjut, cukup ikuti langka
 
 1. Clone repositori ini:
    ```bash
-  git clone https://github.com/ekarachmat/portofolio.git](https://github.com/Seccastudio/Myportofolio.git)
+   git clone https://github.com/Seccastudio/Myportofolio.git
